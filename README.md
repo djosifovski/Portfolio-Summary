@@ -5,7 +5,7 @@
 <img width=500 alt="Exoplanet" src="https://github.com/josifovskid/Portfolio-Summary/blob/main/exoplanet.jpg"/>
 
 - Developed a solution to classifying astronomical objects detected with NASA's Kepler mission as an exoplanet, or not in Python with sklearn.
-- Results: The F score of the chosen model - Random Forest - is 0.9840.
+- Results: The $F_1$ score of the chosen model - Random Forest - is 0.9840.
 
 ## [Abalone Age Prediction](https://github.com/josifovskid/Applied-Machine-Learning/tree/main/Abalone-Age-Prediction)
 
