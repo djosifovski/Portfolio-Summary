@@ -2,17 +2,15 @@
 
 ## [Exoplantes](https://github.com/josifovskid/Applied-Machine-Learning/tree/main/Exoplanets)
 
-![Exoplanet](https://github.com/josifovskid/Portfolio-Summary/blob/main/exoplanet.jpg)
-
 <img width=500 alt="Exoplanet" src="https://github.com/josifovskid/Portfolio-Summary/blob/main/exoplanet.jpg"/>
 
 ## [Abalone Age Prediction](https://github.com/josifovskid/Applied-Machine-Learning/tree/main/Abalone-Age-Prediction)
 
-![Abalone](https://github.com/josifovskid/Portfolio-Summary/blob/main/abalone.jpg)
+<img width=500 alt="Abalone" src="https://github.com/josifovskid/Portfolio-Summary/blob/main/abalone.jpg"/>
 
 ## [Modeling Population Dynamics](https://github.com/josifovskid/Scientific-Computing/tree/main/Modeling-Population-Dynamics)
 
-![Model of lynx-hare interaction](https://github.com/josifovskid/Portfolio-Summary/blob/main/lynx_hare_model.png)
+<img width=500 alt="Model of lynx-hare interaction" src="https://github.com/josifovskid/Portfolio-Summary/blob/main/lynx_hare_model.png"/>
 
 - Analyzed three different mathematical models of interactions between species: intraspecific competition, Interspecific competition, and predation in MATLAB with pplane8.
 - Modelled three study cases for each interaction: spreading of SARS-CoV-2 in People's Republic of China as logistic growth, competition between two species of paramecium for the same resource, and predation between canadian lynx and horseshoe hare in the Hudson Bay from 1845 to 1935 in Python.
