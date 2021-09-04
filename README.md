@@ -2,8 +2,11 @@
 
 ## [Exoplantes](https://github.com/josifovskid/Applied-Machine-Learning/tree/main/Exoplanets)
 
+![Exoplanet](https://github.com/josifovskid/Portfolio-Summary/blob/main/exoplanet.jpg)
+
 ## [Abalone Age Prediction](https://github.com/josifovskid/Applied-Machine-Learning/tree/main/Abalone-Age-Prediction)
 
+![Abalone](https://github.com/josifovskid/Portfolio-Summary/blob/main/abalone.jpg)
 
 ## [Modeling Population Dynamics](https://github.com/josifovskid/Scientific-Computing/tree/main/Modeling-Population-Dynamics)
 
@@ -14,7 +17,7 @@
 
 ## [Falling Stick](https://github.com/josifovskid/Computational-Physics/tree/main/Falling-Stick)
 
-![Falling stick](https://github.com/josifovskid/Computational-Physics/blob/main/Falling-Stick/falling_stick.png)
+![Falling stick](https://github.com/josifovskid/Portfolio-Summary/blob/main/falling_stick.png)
 
 - Derived the Lagrangian of a fallin stick
 - Numerically calculated the time the stick takes to fall down
