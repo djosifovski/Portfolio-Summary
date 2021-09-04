@@ -4,6 +4,8 @@
 
 ![Exoplanet](https://github.com/josifovskid/Portfolio-Summary/blob/main/exoplanet.jpg)
 
+<img width=300 alt="Exoplanet" src="https://github.com/josifovskid/Portfolio-Summary/blob/main/exoplanet.jpg"/>
+
 ## [Abalone Age Prediction](https://github.com/josifovskid/Applied-Machine-Learning/tree/main/Abalone-Age-Prediction)
 
 ![Abalone](https://github.com/josifovskid/Portfolio-Summary/blob/main/abalone.jpg)
