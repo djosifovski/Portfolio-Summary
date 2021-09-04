@@ -27,6 +27,6 @@
 
 ![Falling stick](https://github.com/josifovskid/Portfolio-Summary/blob/main/falling_stick.png)
 
-- Derived the Lagrangian of a fallin stick
-- Numerically calculated the time the stick takes to fall down
-- Checked the numerical computation experimentally, and confirmed it# Portfolio-Summary
+- Derived the Lagrangian of a fallin stick.
+- Numerically calculated the time the stick takes to fall down.
+- Checked the numerical computation experimentally, and confirmed it.
