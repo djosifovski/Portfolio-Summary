@@ -1,7 +1,15 @@
 # Portfolio Summary
 
-## [Exoplantes]()
+## [Exoplantes](https://github.com/josifovskid/Applied-Machine-Learning/tree/main/Exoplanets)
 
+## [Abalone Age Prediction](https://github.com/josifovskid/Applied-Machine-Learning/tree/main/Abalone-Age-Prediction)
+
+
+## [Modeling Population Dynamics](https://github.com/josifovskid/Scientific-Computing/tree/main/Modeling-Population-Dynamics)
+- Analyzed three different mathematical models of interactions between species: intraspecific competition, Interspecific competition, and predation in MATLAB with pplane8.
+- Modelled three study cases for each interaction: spreading of SARS-CoV-2 in People's Republic of China as logistic growth, competition between two species of paramecium for the same resource, and predation between canadian lynx and horseshoe hare in the Hudson Bay from (year) to ( year) in Python.
+- Challenges:
+- Results:
 
 ## [Falling Stick](https://github.com/josifovskid/Computational-Physics/tree/main/Falling-Stick)
 
