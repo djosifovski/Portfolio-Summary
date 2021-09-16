@@ -25,8 +25,8 @@ Determining the age of abalone is an important task because it affects the reven
 
 ## [Falling Stick](https://github.com/josifovskid/Computational-Physics/tree/main/Falling-Stick)
 
-<img width=300 alt="Abalone" src="https://github.com/josifovskid/Portfolio-Summary/blob/main/images/falling_stick.png/>
+<img width=300 alt="Falling stick" src="https://github.com/josifovskid/Portfolio-Summary/blob/main/images/falling_stick.png/>
 
-- Derived the Lagrangian of a fallin stick.
+- Derived the Lagrangian of a falling stick.
 - Numerically calculated the time the stick takes to fall down.
 - Checked the numerical computation experimentally, and confirmed it.
