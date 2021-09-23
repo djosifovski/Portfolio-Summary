@@ -4,16 +4,31 @@
 
 ### [Abalone Age Prediction](https://github.com/josifovskid/Abalone-Age-Prediction)
 
-<img width=500 alt="Abalone" src="images/abalone.jpg"/>
+<p align="center">
+    <img alt="Living abalone in a tank" src="images\abalone.jpg" width="500"/><br>
+    Sharktopus, 2011, <i>Living abalone showing epipodium and tentacles, in display tank at Ty Warner Sea Center on Stearns Wharf, Santa Barbara, California.</i>, image, Wikimedia Commons, viewed 21 July 2020, <a href="https://commons.wikimedia.org/wiki/File:LivingAbalone.JPG">URL</a>.
+</p>
 
 Determining the age of abalone is an important task because it affects the revenue of the industry. The traditional approach is time-consuming, and different approaches are needed to speed up the process. This project aims to address that by determining the age of abalone from physical measurments with machine learning algorithms. The problem was treated as regression, and several regressors from the scikit-learn library were learned. The performance was evaluated with the $R^{2}$ score. The models however, so far are not good enough to be deployed. Namely, the best performing model is voting regression, that fits the base estimators: SVR, GaussianProcessRegressor, Ridge, RandomForestRegressor, and SGDRegressor, and has $R^{2}$ score of 0.5288, which suggests that more work is needed.
 
 ### [Exoplantes Detection](https://github.com/josifovskid/Exoplanets-Detection)
 
-<img width=500 alt="Exoplanet" src="images/exoplanet.jpg"/>
+<p align="center">
+    <img alt="Exoplanet 2M1207b" src="images/exoplanet.jpg" width="500"/><br>
+    ESO, 2004, <i>Composite image showing the first directly imaged exoplanet 2M1207b (the red spot on the lower left), orbiting the brown dwarf 2M1207 (centre).</i>, image, exoplanets.nasa.gov, viewed 30 August 2020, <a href="https://exoplanets.nasa.gov/resources/300/2m1207b-first-image-of-an-exoplanet//">URL</a>.
+</p>
 
 - Developed a solution to classifying astronomical objects detected with NASA's Kepler mission as an exoplanet, or not in Python with sklearn.
 - Results: The $F_1$ score of the chosen model - Random Forest - is 0.9840.
+
+### [Building chains of transformations and models with the `Pipeline` class on the iris dataset](https://github.com/josifovskid/Iris-Toy-Dataset-Pipeline)
+
+<p align="center">
+    <img alt="Iris setosa" src="images/Iris_setosa.jpg" width="400"/><br>
+    Radomil, 2015, <i>Iris setosa.</i>, image, Wikimedia Commons, viewed 23 September 2021, <a href="https://commons.wikimedia.org/wiki/File:Kosaciec_szczecinkowaty_Iris_setosa.jpg">URL</a>.
+</p>
+
+The iris dataset is very well understood, and as such, it is often used as a reference dataset. The goal of this project is to get familiar with the `Pipeline` class of `scikit-learn`.
 
 ## Scientific Computing
 
@@ -31,7 +46,10 @@ Determining the age of abalone is an important task because it affects the reven
 
 ### [Falling Stick](https://github.com/josifovskid/Falling-Stick)
 
-<img width=300 alt="Falling stick" src="images/falling_stick.png"/>
+<p align="center">
+    <img alt="Falling stick" src="images/falling_stick.png" width="300"/><br>
+    2017, <i>Force diagram of falling stick.</i>, image, Physics Stack Exchange, viewed 14 July 2020, Adapted from <a href="https://physics.stackexchange.com/questions/367918/how-does-the-rods-centre-of-mass-change-while-falling">URL</a>.
+</p>
 
 - Derived the Lagrangian of a falling stick.
 - Numerically calculated the time the stick takes to fall down.
