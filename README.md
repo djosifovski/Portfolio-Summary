@@ -5,7 +5,7 @@
 ### [Abalone Age Prediction](https://github.com/josifovskid/Abalone-Age-Prediction)
 
 <p align="left">
-    <img alt="Living abalone in a tank" src="images\abalone.jpg" width="500"/><br>
+    <img alt="Living abalone in a tank" src="images\abalone.jpg" width="400"/><br>
     Sharktopus, 2011, <i>Living abalone showing epipodium and tentacles, in display tank at Ty Warner Sea Center on Stearns Wharf, Santa Barbara, California.</i>, image, Wikimedia Commons, viewed 21 July 2020, <a href="https://commons.wikimedia.org/wiki/File:LivingAbalone.JPG">URL</a>.
 </p>
 
@@ -14,7 +14,7 @@ Determining the age of abalone is an important task because it affects the reven
 ### [Exoplantes Detection](https://github.com/josifovskid/Exoplanets-Detection)
 
 <p align="left">
-    <img alt="Exoplanet 2M1207b" src="images/exoplanet.jpg" width="500"/><br>
+    <img alt="Exoplanet 2M1207b" src="images/exoplanet.jpg" width="400"/><br>
     ESO, 2004, <i>Composite image showing the first directly imaged exoplanet 2M1207b (the red spot on the lower left), orbiting the brown dwarf 2M1207 (centre).</i>, image, exoplanets.nasa.gov, viewed 30 August 2020, <a href="https://exoplanets.nasa.gov/resources/300/2m1207b-first-image-of-an-exoplanet//">URL</a>.
 </p>
 
@@ -24,7 +24,7 @@ Determining the age of abalone is an important task because it affects the reven
 ### [Building chains of transformations and models with the `Pipeline` class on the iris dataset](https://github.com/josifovskid/Iris-Toy-Dataset-Pipeline)
 
 <p align="left">
-    <img alt="Iris setosa" src="images/Iris_setosa.jpg" width="300"/><br>
+    <img alt="Iris setosa" src="images/Iris_setosa.jpg" width="400"/><br>
     Radomil, 2015, <i>Iris setosa.</i>, image, Wikimedia Commons, viewed 23 September 2021, <a href="https://commons.wikimedia.org/wiki/File:Kosaciec_szczecinkowaty_Iris_setosa.jpg">URL</a>.
 </p>
 
@@ -34,7 +34,9 @@ The iris dataset is very well understood, and as such, it is often used as a ref
 
 ### [Modeling Population Dynamics](https://github.com/josifovskid/Modeling-Population-Dynamics)
 
-<img width=800 alt="Model of lynx-hare interaction" src="images/lynx_hare_model.png"/>
+<p align="left">
+    <img alt="Model of lynx-hare interaction" src="images/lynx_hare_model.png" width="800"/><br><i>Model of lynx-hare interaction.</i>
+</p>
 
 - Analyzed three different mathematical models of interactions between species: intraspecific competition, interspecific competition, and predation in MATLAB with the function pplane8.
 - Modeled three study cases for each interaction:
@@ -47,7 +49,7 @@ The iris dataset is very well understood, and as such, it is often used as a ref
 ### [Falling Stick](https://github.com/josifovskid/Falling-Stick)
 
 <p align="left">
-    <img alt="Falling stick" src="images/falling_stick.png" width="300"/><br>
+    <img alt="Falling stick" src="images/falling_stick.png" width="400"/><br>
     2017, <i>Force diagram of falling stick.</i>, image, Physics Stack Exchange, viewed 14 July 2020, Adapted from <a href="https://physics.stackexchange.com/questions/367918/how-does-the-rods-centre-of-mass-change-while-falling">URL</a>.
 </p>
 
