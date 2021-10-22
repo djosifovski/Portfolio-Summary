@@ -41,7 +41,7 @@ Determining the age of abalone is an important task because it affects the reven
 
 <p align="left">
     <img alt="Falling stick" src="images/falling_stick.png" width="400"/><br>
-    2017, <i>Force diagram of falling stick.</i>, image, Physics Stack Exchange, viewed 14 July 2020, Adapted from <a href="https://physics.stackexchange.com/questions/367918/how-does-the-rods-centre-of-mass-change-while-falling">URL</a>.
+    2017, <i>Force diagram of falling stick.</i>, image, Physics Stack Exchange, viewed 14 July 2020, Adapted from <a href="https://physics.stackexchange.com/questions/367918/how-does-the-rods-centre-of-mass-change-while-falling">https://physics.stackexchange.com/questions/367918/how-does-the-rods-centre-of-mass-change-while-falling</a>.
 </p>
 
 - Derived the Lagrangian of a falling stick.
