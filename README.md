@@ -21,6 +21,22 @@ Determining the age of abalone is an important task because it affects the reven
 - Developed a solution to classifying astronomical objects detected with NASA's Kepler mission as an exoplanet, or not in Python with sklearn.
 - Results: The $F_1$ score of the chosen model - Random Forest - is 0.9840.
 
+### [Global Temperature Forecasting](https://github.com/djosifovski/Global-Temperature-Forecasting)
+
+Using Facebook's Prophet, forecast the global average temperature change in the years 2020-2040.
+
+### [Loan Prediction](https://github.com/djosifovski/Loan-Prediction)
+
+Predict whether someone is reliable for a loan. The winning model is XGBoost with $F_{1}$ score of 0.96.
+
+### [Telco Customer Churn Prediction](https://github.com/djosifovski/Telco-Customer-Churn-Prediction)
+
+Predict whether a client will leave or remain in the company. The winning model is optimized XGBoost classifier with $F_{1}$ score of 0.8643.
+
+### [Tornado Magnitude Prediction](https://github.com/djosifovski/Tornado-Magnitude-Prediction)
+
+Predict the magnitude of a tornado. Was experimented with a stacking regressor with the following regressors: Lasso regression, Linear SVR, and XGBoost regregssor. It turned out that the stacking regressor isn't the most optimal model for the application, but rather the XGBoost is with the highest $R^{2}$ score of 0.593262.
+
 ## Scientific Computing
 
 ### [Modeling Population Dynamics](https://github.com/josifovskid/Modeling-Population-Dynamics)
