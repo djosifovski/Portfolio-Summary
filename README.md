@@ -37,6 +37,10 @@ Predict whether a client will leave or remain in the company. The winning model 
 
 Predict the magnitude of a tornado. Was experimented with a stacking regressor with the following regressors: Lasso regression, Linear SVR, and XGBoost regregssor. It turned out that the stacking regressor isn't the most optimal model for the application, but rather the XGBoost is with the highest $R^{2}$ score of 0.593262.
 
+### [Venus-Volcanoes-Detection](https://github.com/djosifovski/Venus-Volcanoes-Detection)
+
+NASA's Magellan spacecraft was a space probe to map the Venusian surface, and to measure the planetary gravitational field. The resulting images of the space mission provide insights into the Venusian geology. In this project there are some images of the Venusian surface that contain a volcano (or volcanoes), and the goal of the project is to classify the images in two classes: with or without volcano. The image classification is done with a convolutional neural network built with `TensorFlow` library. The best validation AUC is 0.9738.
+
 ## Scientific Computing
 
 ### [Modeling Population Dynamics](https://github.com/josifovskid/Modeling-Population-Dynamics)
