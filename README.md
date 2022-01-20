@@ -34,11 +34,12 @@
 
 ### [Loan Prediction](https://github.com/djosifovski/Loan-Prediction)
 
-Predict whether someone is reliable for a loan. The winning model is XGBoost with $F_{1}$ score of 0.96.
+Predict whether someone is reliable for a loan. The winning model is XGBoost with F_1 score of 0.96.
 
 ### [Telco Customer Churn Prediction](https://github.com/djosifovski/Telco-Customer-Churn-Prediction)
 
-Predict whether a client will leave or remain in the company. The winning model is optimized XGBoost classifier with $F_{1}$ score of 0.8643.
+- Customer churn is the loss of clients of a company, and it is one of the most important metrics in a business setting. It costs less to retain a defecting customer then to acquire a new one. In this project the goal is to predict customer churn of a fictive telco, and classify its customers in two groups: those that would remain, and those that would leave. If a customer is predicted to be thinking of leaving the company, that will affect the revenue of the telco, so there should be a motivation to make the customer rethink their decision by offering them, for e.g., coupons, personalized discounts, etc.
+- The winning model is optimized XGBoost classifier with F_1 score of 0.8643.
 
 ### [Tornado Magnitude Prediction](https://github.com/djosifovski/Tornado-Magnitude-Prediction)
 
