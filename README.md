@@ -19,8 +19,8 @@
     JPxG, 2021, <i>Gateway Generating Station in Antioch, California</i>image, Wikimedia Commons, viewed 19 January 2022, <a href="https://commons.wikimedia.org/wiki/File:Gateway_Generating_Station_rectified.jpg">https://commons.wikimedia.org/wiki/File:Gateway_Generating_Station_rectified.jpg</a>.
 </p>
 
-- ANN for regression.
-- This is a regression type of problem in which an artificial neural network was built using the `TensorFlow` framework. As a single number evaluation metric R^2 is used where R^2=.
+- A combined cycle power plant (CCPP) is an energy plant that converts a source of heat into mechanical energy. Predicting energy output of a power plant is important in order to maximize the profit from the available megawatt hours. In this project the goal is to predict the energy output of a CCPP with an artificial neural network (ANN). The dataset, which consists of these input and target variables, was collected over a six-year period.
+- This is a regression type of problem in which an artificial neural network was built using the `TensorFlow` framework. As a single number evaluation metric MSE is used where MSE=0.9152.
 
 ### [Exoplantes Detection](https://github.com/josifovskid/Exoplanets-Detection)
 
