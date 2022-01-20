@@ -12,6 +12,16 @@
 - Determining the age of abalone is an important task because it affects the revenue of the industry. The traditional approach is time-consuming, and different approaches are needed to speed up the process. The motivation for this project is to address that by determining the age of abalone from physical measurments with machine learning models.
 - This is a regression type of problem in which a subset of learning algoritms were trained from `scikit-learn` and regression algorithm from `XGBoost`. As a single number evaluation metric R^2 is used, and after fine-tuning the models, the most optimal model is Support Vector Regressor where R^2=0.655027.
 
+### [Energy Output Prediction](https://github.com/djosifovski/Energy-Output-Prediction)
+
+<p align="left">
+    <img alt="Gateway Generating Station in Antioch, California" src="images/plant.jpg" width="300"/><br>
+    JPxG, 2021, <i>Gateway Generating Station in Antioch, California</i>image, Wikimedia Commons, viewed 19 January 2022, <a href="https://commons.wikimedia.org/wiki/File:Gateway_Generating_Station_rectified.jpg">https://commons.wikimedia.org/wiki/File:Gateway_Generating_Station_rectified.jpg</a>.
+</p>
+
+- ANN for regression.
+- This is a regression type of problem in which an artificial neural network was built using the `TensorFlow` framework. As a single number evaluation metric R^2 is used where R^2=.
+
 ### [Exoplantes Detection](https://github.com/josifovskid/Exoplanets-Detection)
 
 <p align="left">
@@ -41,12 +51,13 @@ Predict whether a client will leave or remain in the company. The winning model 
     Daphne Zaras, 2006, <i>One of several tornadoes observed by the VORTEX1 project team on May 3, 1999, in central Oklahoma. Note the tube-like condensation funnel, attached to the rotating cloud base, surrounded by a translucent dust cloud.</i>, image, Wikimedia Commons, viewed 19 January 2022, <a href="https://commons.wikimedia.org/wiki/File:Dszpics1.jpg">https://commons.wikimedia.org/wiki/File:Dszpics1.jpg</a>.
 </p>
 
-- Predict the magnitude of a tornado.
-- This is a regression type of problem in which a stacking regressor with the following regressors: Lasso regression, Linear SVR, and XGBoost regregssor from `scikit-learn` and `XGBoost` was trained. As a single number evaluation metric R^2 is used. It turned out that the stacking regressor isn't the most optimal model for the application, but rather the XGBoost is with the highest $R^{2}$ score of 0.593262.
+- The motivation of the project is to predict the magnitude of a tornado from historical data collected of various tornadoes in the USA from 1950 to 2019 by the National Weather Service.
+- This is a regression type of problem in which a stacking regressor with the following base regressors: Lasso regression, Linear Support Vector Regression, and `XGBoost` regressor from `scikit-learn` and `XGBoost`, and Ridge regression as a meta regressor was built. As a single number evaluation metric R^2 is used, and the most optimal model for this application is the stacking regressor which has the highest R^2=0.594053.
 
 ### [Venus Volcanoes Detection](https://github.com/djosifovski/Venus-Volcanoes-Detection)
 
-NASA's Magellan spacecraft was a space probe to map the Venusian surface, and to measure the planetary gravitational field. The resulting images of the space mission provide insights into the Venusian geology. In this project there are some images of the Venusian surface that contain a volcano (or volcanoes), and the goal of the project is to classify the images in two classes: with or without volcano. The image classification is done with a convolutional neural network built with `TensorFlow` library. The best validation AUC is 0.9738.
+- NASA's Magellan spacecraft was a space probe to map the Venusian surface, and to measure the planetary gravitational field. The resulting images of the space mission provide insights into the Venusian geology. In this project there are some images of the Venusian surface that contain a volcano (or volcanoes), and the goal of the project is to classify the images in two classes: with or without volcano. The image classification is done with a convolutional neural network built with `TensorFlow` library.
+- The best validation AUC is 0.9738.
 
 ## Scientific Computing
 
